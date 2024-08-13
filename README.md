@@ -1,2 +1,0 @@
-# datalearn
-MY HOMEWORK 1 MODULE 1
